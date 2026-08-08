@@ -4,10 +4,6 @@
 
 🎓 **B.Tech Electrical Engineering @ NIT Agartala '27**
 
-I’m a software developer focused on Cloud, DevOps, Backend Development, and Generative AI. I build reliable backend systems, automate workflows, and deploy scalable applications using Python, AWS, Docker, and Kubernetes.
-
-Currently, I’m deepening my expertise in FastAPI, cloud-native architecture, infrastructure automation, LangChain, LLMs, and RAG, with a focus on building and deploying production-ready systems.
-
 <table>
 <tr>
 <td width="60%">
@@ -18,12 +14,11 @@ Currently, I’m deepening my expertise in FastAPI, cloud-native architecture, i
 
 <br><br>
 
-- University : I am a Student at [National Institute of Technology, Jamshedpur](https://www.nitjsr.ac.in/).
-- Technologist: I love using Software as a solution for every Problem.and explore Innovation with new Technologies.
-- Computer : I am a competitive programmer at Codeforces, Leetcode.
-- Student : I’m currently learning Computer Science and Software Engineering.
-- Thinking : I’m currently open for a new job opportunity, this is [RESUME](https://drive.google.com/file/d/19om4OGT9LOv5YrqcTWmNHxF7rEnUkMQ0/view?usp=sharing).
-- I’m currently open to new opportunities—take a look at [PORTFOLIO](https://me.vinaygupta.tech/).
+- I’m a software developer focused on Cloud, DevOps, Backend Development, and Generative AI. I build reliable backend systems, automate workflows, and deploy scalable applications using Python, AWS, Docker, and Kubernetes.
+  
+- Currently, I’m deepening my expertise in FastAPI, cloud-native architecture, infrastructure automation, LangChain, LLMs, and RAG, with a focus on building and deploying production-ready systems.
+
+- I’m currently open to new opportunities—take a look at [PORTFOLIO](https://thesahilsuman.info/).
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaytheprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="vi
