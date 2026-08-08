@@ -4,22 +4,29 @@
 
 🎓 **B.Tech Electrical Engineering @ NIT Agartala '27**
 
-I build backend applications, automate infrastructure, and deploy scalable systems
-using **Python, AWS, Docker, Kubernetes, and CI/CD**.
+I’m a software developer focused on Cloud, DevOps, Backend Development, and Generative AI. I build reliable backend systems, automate workflows, and deploy scalable applications using Python, AWS, Docker, and Kubernetes.
 
-Currently exploring **Generative AI, LangChain, LLM applications, and cloud-native architecture**.
-
+Currently, I’m deepening my expertise in FastAPI, cloud-native architecture, infrastructure automation, LangChain, LLMs, and RAG, with a focus on building and deploying production-ready systems.
 ---
 
 ## 🚀 About Me
 
-- ☁️ Building and deploying applications on **AWS**
-- ⚙️ Automating infrastructure and CI/CD pipelines
-- 🐳 Working with **Docker & Kubernetes**
-- 🔧 Building backend APIs with **Python & FastAPI**
-- 🤖 Learning and building applications with **LangChain & LLMs**
-- 📊 Implementing monitoring with **Prometheus & Grafana**
-- 🧠 Solving **Data Structures & Algorithms**
+- ☁️ Building and deploying applications using **AWS Cloud**
+- ⚙️ Designing and automating **CI/CD pipelines**
+- 🐳 Containerizing applications using **Docker**
+- ☸️ Deploying and managing workloads with **Kubernetes**
+- 🔧 Building scalable and maintainable backend APIs using **Python & FastAPI**
+- 🐍 Using Python for **backend development, automation, scripting, and AI**
+- 🔐 Working with cloud concepts including **IAM, VPC, EC2, S3, Route 53,
+  Load Balancing, Auto Scaling, and CloudWatch**
+- 📊 Implementing application and infrastructure monitoring using
+  **Prometheus & Grafana**
+- 🌐 Working with **Linux, Nginx, networking, and server administration**
+- 🤖 Exploring **Generative AI, LangChain, LLMs, RAG, and AI agents**
+- 🧠 Consistently practicing **Data Structures & Algorithms**
+- 🔍 Interested in **system design, scalability, reliability, and automation**
+- 📚 Continuously learning new technologies and improving my engineering
+  fundamentals
 - 💼 Open to **Software Engineering, Backend, Cloud & DevOps opportunities**
 
 ---
@@ -59,44 +66,3 @@ Currently exploring **Generative AI, LangChain, LLM applications, and cloud-nati
 **LangChain • LLMs • Prompt Engineering • RAG • Hugging Face • Generative AI**
 
 ---
-
-# 🚀 Featured Projects
-
-## 🏥 Prescripto — Doctor Appointment Platform
-
-A production-style doctor appointment platform deployed using a complete DevOps workflow.
-
-**Tech:** AWS • Docker • Jenkins • Nginx • Prometheus • Grafana
-
-### Architecture
-
-```text
-Developer
-    │
-    ▼
-GitHub
-    │
-    ▼
-GitHub Webhook
-    │
-    ▼
-Jenkins CI/CD
-    │
-    ├── Build
-    ├── Test
-    └── Docker Image
-            │
-            ▼
-        AWS EC2
-            │
-            ▼
-      Docker Compose
-            │
-            ▼
-          Nginx
-            │
-            ▼
-        Application
-            │
-            ├── Prometheus
-            └── Grafana
