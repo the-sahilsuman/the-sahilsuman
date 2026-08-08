@@ -12,16 +12,16 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
 - I’m a software developer focused on Cloud, DevOps, Backend Development, and Generative AI. I build reliable backend systems, automate workflows, and deploy scalable applications using Python, AWS, Docker, and Kubernetes.
   
 - Currently, I’m deepening my expertise in FastAPI, cloud-native architecture, infrastructure automation, LangChain, LLMs, and RAG, with a focus on building and deploying production-ready systems.
 
-- I’m currently open to new opportunities—take a look at [PORTFOLIO](https://thesahilsuman.info/).
+- I’m currently open to new opportunities—take a look at  [the-sahilsuman.info](https://thesahilsuman.info/).
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaytheprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="vi
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-sahilsuman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 
 ## 🛠️ Tech Stack
 
