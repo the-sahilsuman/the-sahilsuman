@@ -8,27 +8,35 @@ I’m a software developer focused on Cloud, DevOps, Backend Development, and Ge
 
 Currently, I’m deepening my expertise in FastAPI, cloud-native architecture, infrastructure automation, LangChain, LLMs, and RAG, with a focus on building and deploying production-ready systems.
 
-## 🚀 About Me
+<table>
+<tr>
+<td width="60%">
 
-- ☁️ Building and deploying applications using **AWS Cloud**
-- ⚙️ Designing and automating **CI/CD pipelines**
-- 🐳 Containerising applications using **Docker**
-- ☸️ Deploying and managing workloads with **Kubernetes**
-- 🔧 Building scalable and maintainable backend APIs using **Python & FastAPI**
-- 🐍 Using Python for **backend development, automation, scripting, and AI**
-- 🔐 Working with cloud concepts including **IAM, VPC, EC2, S3, Route 53,
-  Load Balancing, Auto Scaling, and CloudWatch**
-- 📊 Implementing application and infrastructure monitoring using
-  **Prometheus & Grafana**
-- 🌐 Working with **Linux, Nginx, networking, and server administration**
-- 🤖 Exploring **Generative AI, LangChain, LLMs, RAG, and AI agents**
-- 🧠 Consistently practicing **Data Structures & Algorithms**
-- 🔍 Interested in **system design, scalability, reliability, and automation**
-- 📚 Continuously learning new technologies and improving my engineering
-  fundamentals
-- 💼 Open to **Software Engineering, Backend, Cloud & DevOps opportunities**
+## 👨‍💻 About Me
 
----
+**Cloud & DevOps Engineer | Python Backend Developer | GenAI Enthusiast**
+
+🎓 B.Tech Electrical Engineering @ **NIT Agartala '27**
+
+I build **scalable backend systems**, automate infrastructure, and deploy
+cloud-native applications using **Python, AWS, Docker & Kubernetes**.
+
+Currently exploring **FastAPI, LangChain, LLMs, RAG, AI Agents & System Design**.
+
+**☁️ AWS** · **⚙️ DevOps** · **🐍 Python/FastAPI** · **🤖 GenAI**  
+**🐳 Docker** · **☸️ Kubernetes** · **📊 Prometheus/Grafana**
+
+💼 Open to **Software Engineering, Backend, Cloud & DevOps opportunities.**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="./assets/about_me_dashboard.gif" width="450px">
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
