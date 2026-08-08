@@ -7,7 +7,6 @@
 I’m a software developer focused on Cloud, DevOps, Backend Development, and Generative AI. I build reliable backend systems, automate workflows, and deploy scalable applications using Python, AWS, Docker, and Kubernetes.
 
 Currently, I’m deepening my expertise in FastAPI, cloud-native architecture, infrastructure automation, LangChain, LLMs, and RAG, with a focus on building and deploying production-ready systems.
----
 
 ## 🚀 About Me
 
