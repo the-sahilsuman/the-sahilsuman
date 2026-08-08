@@ -12,31 +12,21 @@ Currently, I’m deepening my expertise in FastAPI, cloud-native architecture, i
 <tr>
 <td width="60%">
 
-## 👨‍💻 About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-**Cloud & DevOps Engineer | Python Backend Developer | GenAI Enthusiast**
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-🎓 B.Tech Electrical Engineering @ **NIT Agartala '27**
+<br><br>
 
-I build **scalable backend systems**, automate infrastructure, and deploy
-cloud-native applications using **Python, AWS, Docker & Kubernetes**.
+- University : I am a Student at [National Institute of Technology, Jamshedpur](https://www.nitjsr.ac.in/).
+- Technologist: I love using Software as a solution for every Problem.and explore Innovation with new Technologies.
+- Computer : I am a competitive programmer at Codeforces, Leetcode.
+- Student : I’m currently learning Computer Science and Software Engineering.
+- Thinking : I’m currently open for a new job opportunity, this is [RESUME](https://drive.google.com/file/d/19om4OGT9LOv5YrqcTWmNHxF7rEnUkMQ0/view?usp=sharing).
+- I’m currently open to new opportunities—take a look at [PORTFOLIO](https://me.vinaygupta.tech/).
+<br>
 
-Currently exploring **FastAPI, LangChain, LLMs, RAG, AI Agents & System Design**.
-
-**☁️ AWS** · **⚙️ DevOps** · **🐍 Python/FastAPI** · **🤖 GenAI**  
-**🐳 Docker** · **☸️ Kubernetes** · **📊 Prometheus/Grafana**
-
-💼 Open to **Software Engineering, Backend, Cloud & DevOps opportunities.**
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="./assets/about_me_dashboard.gif" width="450px">
-
-</td>
-</tr>
-</table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaytheprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="vi
 
 ## 🛠️ Tech Stack
 
