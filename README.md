@@ -5,15 +5,15 @@
 🎓 **B.Tech Electrical Engineering @ NIT Agartala '27**
 
 I’m a software developer focused on Cloud, DevOps, Backend Development, and Generative AI. I build reliable backend systems, automate workflows, and deploy scalable applications using Python, AWS, Docker, and Kubernetes.
-
-Currently, I’m deepening my expertise in FastAPI, cloud-native architecture, infrastructure automation, LangChain, LLMs, and RAG, with a focus on building and deploying production-ready systems.
+_
+Currently, I’m deepening my expertise in FastAPI, cloud-native architecture, infrastructure automation, LangChain, LLMs, and RAG, with a focus on building and deploying production-ready systems._
 ---
 
 ## 🚀 About Me
 
 - ☁️ Building and deploying applications using **AWS Cloud**
 - ⚙️ Designing and automating **CI/CD pipelines**
-- 🐳 Containerizing applications using **Docker**
+- 🐳 Containerising applications using **Docker**
 - ☸️ Deploying and managing workloads with **Kubernetes**
 - 🔧 Building scalable and maintainable backend APIs using **Python & FastAPI**
 - 🐍 Using Python for **backend development, automation, scripting, and AI**
